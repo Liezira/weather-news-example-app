@@ -1,0 +1,6 @@
+{
+  "name": "Weather & News",
+  "description": "A fully-featured Weather and News dashboard delivering live weather telemetry and trending headline news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
